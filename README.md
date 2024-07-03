@@ -1,4 +1,4 @@
-# Sound of the Bullets
+# Slime Jump
 ## Youtube video gameplay
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/HLXtOQ1KVjI/0.jpg)](https://www.youtube.com/watch?v=HLXtOQ1KVjI)
 
